@@ -1,4 +1,3 @@
 Another file from new-feature branch.
 
-
-This file was modified locally.
+This file is modified in feature-2 branch.
